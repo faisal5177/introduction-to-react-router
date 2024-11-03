@@ -2,3 +2,8 @@ nav a {
     margin-right: 20px;
     text-align: center;
 }
+nav a.active{
+     text-decoration: underline;   /*likhar neche akta line dekhabe j ami akhon konta click koreche */
+     color: peru;
+     background-color: azure;
+}
